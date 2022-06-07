@@ -1,0 +1,6 @@
+package com.example.yourhistory
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
